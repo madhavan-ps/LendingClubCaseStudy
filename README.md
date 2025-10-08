@@ -28,7 +28,7 @@ Small business loans represent highest risk segment (26% default rate)
 - Conclusion 3:
 Term, Interest rate, Loan Amount collectively have significant impact on "Defaulting"
 - Conclusion 4:
-Lending Strategy: Focus on Low-risk Segments such as Wedding, Car, Major Purchase loans(10%)
+Lending Strategy - Focus on Low-risk Segments such as Wedding, Car, Major Purchase loans(10%)
 
 ## Technologies Used
 - Python - version 2.13.7
