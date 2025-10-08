@@ -21,13 +21,13 @@ Key business Problem is credit risk management as there is a challenge to Identi
 The dataset consists of information about past loan applicants and their repayment behavior. Each record represents an applicant’s profile and loan details, Repayment pattern and details.
 
 ## Conclusions
-- Conclusion 1
+- Conclusion 1:
 Loan purpose significantly impacts default rates (10% to 26% range)
-- Conclusion 2
+- Conclusion 2:
 Small business loans represent highest risk segment (26% default rate)
-- Conclusion 3
+- Conclusion 3:
 Term, Interest rate, Loan Amount collectively have significant impact on "Defaulting"
-- Conclusion 4
+- Conclusion 4:
 Lending Strategy: Focus on Low-risk Segments such as Wedding, Car, Major Purchase loans(10%)
 
 ## Technologies Used
